@@ -6,3 +6,5 @@ all they both have to do is register on the app and put in their details and tha
 two separate parts, one for the Influencer and one for the Brand with tabs catering to their 
 own needs. They both can interact, apply to campaigns, make campaigns, connect through 
 chat and find their social media platforms, all linked onto the same platform.
+
+kindly open the master branch to view the project in full entirety :)
